@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR_CODE_GENERATOR</string>
+    <string name="textField">Your Text</string>
+
+</resources>
